@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="cc11f73b-5c65-4db9-ada2-72e1791f7dfd" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="43cbfa53-fb25-458b-bd3c-a36b8099d7a0" name="Default Changelist" comment="" />
+>>>>>>> WhileLoops
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -47,6 +52,8 @@
       </list>
     </recent_temporary>
   </component>
+=======
+>>>>>>> WhileLoops
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -63,6 +70,7 @@
     <configuration />
   </component>
   <component name="TaskManager">
+<<<<<<< HEAD
     <task active="true" id="Default" summary="Default task">
       <changelist id="cc11f73b-5c65-4db9-ada2-72e1791f7dfd" name="Default Changelist" comment="" />
       <created>1576585684908</created>
@@ -94,4 +102,8 @@
     </state>
     <state x="954" y="441" key="com.intellij.ide.util.TipDialog/67.27.1853.948@67.27.1853.948" timestamp="1576585703761" />
   </component>
+=======
+    <servers />
+  </component>
+>>>>>>> WhileLoops
 </project>
