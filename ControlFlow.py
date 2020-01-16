@@ -1,8 +1,7 @@
-"""
-Programmer: Zach Anderson
-Date: 12.16.19
-Program: Guess My Number
-"""
+# Programmer: Zach Anderson
+# Date: 12.16.19
+# Program: Guess My Number
+
 
 myNumber = 7
 
@@ -18,3 +17,6 @@ while guess != myNumber:
     guess = int(input("Enter a Guess: "))
 
 print("\nCongrats, you guessed my number")
+
+
+
