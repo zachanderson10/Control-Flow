@@ -19,4 +19,6 @@ while guess != myNumber:
 print("\nCongrats, you guessed my number")
 
 
+>>>>>>> ForLoops
+
 
