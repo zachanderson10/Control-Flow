@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 # Programmer: Zach Anderson
 # Date: 12.16.19
@@ -31,7 +32,7 @@ Date: 12.16.19
 x = 1
 
 # While loop that will see if the condition has
-#been met.  If not it will run again until
+# been met.  If not it will run again until
 # the condition, #10, is met
 
 while x <= 10:
@@ -67,6 +68,16 @@ print ("Sum: " + str(sum))
 Programmer: Zach Anderson
 Date: 12.16.19
 Average test scores
+
+# Programmer: Zach Anderson
+# Date: 1/20/20
+# Program: Double For Loop
+
+for i in range(3):
+    print("Outer For Loop " + str(i))
+    for k in range(4):
+        print("\tInner For Loop " + str(k))
+
 """
 total = 0
 how_many_tests = int(input("How many test do you need to average? "))
@@ -86,3 +97,22 @@ print("")
 
 print("The data type of the variable average is..." + str(type(average)))
 
+
+
+"""
+Programmer: Zach Anderson
+Date: 1/23/20
+Program: While Loop nested inside of a For Loop
+
+"""
+
+print("\n******************\n")
+
+
+for i in range(4):
+    print("For loop: " + str(i))
+    x = i
+    while x >= 0:
+        print("\tWhile Loop: " + str(x))
+        x = x - 1
+        
