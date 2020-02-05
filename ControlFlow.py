@@ -40,12 +40,19 @@ def printMultipleTimes(string, times):
 
 # Call Functions Here......
 
-# greeting()
-# printsomething()
+print("\n****Greetings Function****\n")
+greeting(x)
+print("\n****Print Something Function****\n")
+printsomething(x)
+
 # print(x)
+print("\n****Print Number Function****\n")
 # printNumber(17)
 # printNumber(15)
+print("\n****Print Two Numbers Function****\n")
 # printTwoNumbers(23,78)
 # printTwoNumbers(45)
+print("\n****Print Sum Function****\n")
 # printSum(36,29)
-printMultipleTimes("I love Computer Science", 13)
+print("\n****Print Multiple Times Function****\n")
+# printMultipleTimes("I love Computer Science", 13)
