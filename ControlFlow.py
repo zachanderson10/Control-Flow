@@ -28,7 +28,7 @@ total = 0
 how_many_tests = int(input("How many test do you need to average? "))
 
 print("")
-for i in range(how many tests):
+for i in range(how_many_tests):
     score = float(input("Enter a score: "))
     total = total + score
 
